@@ -16,7 +16,7 @@ We decided to structure our project in feature groups, where each group is respo
 
 ### Example Authorship Analysis:
 
-- ![image info](https://github.com/ileka2468/se452-group-project/blob/main/Documentation/Project/images/analysis.png?raw=true)
+- ![image info](https://github.com/ileka2468/se452-group-project/blob/UsernameFix/Documentation/Project/images/analysis.png?raw=true)
 
 ## Example of File Documentation:
 
